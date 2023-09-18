@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\1002d56e-219b-463c-9373-4a0fabcb7910photo5429369322989532377.jpg",
+      "PackagePath": "staticwebassets\\assets\\announcements\\1002d56e-219b-463c-9373-4a0fabcb7910photo5429369322989532377.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\160d22f9-9659-4434-ade6-d8caa17c64d9IMG_4639.JPG",
+      "PackagePath": "staticwebassets\\assets\\announcements\\160d22f9-9659-4434-ade6-d8caa17c64d9IMG_4639.JPG"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\19624bd4-69ce-47c9-87cc-b29b7b36fd38photo5429369322989532377.jpg",
+      "PackagePath": "staticwebassets\\assets\\announcements\\19624bd4-69ce-47c9-87cc-b29b7b36fd38photo5429369322989532377.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\3b5641c0-e0a1-40e3-bb65-1e8105d50c62IMG_4639.JPG",
+      "PackagePath": "staticwebassets\\assets\\announcements\\3b5641c0-e0a1-40e3-bb65-1e8105d50c62IMG_4639.JPG"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\73bf6317-b42d-4983-a7ef-235fdcc10a2bphoto5429369322989532381.jpg",
+      "PackagePath": "staticwebassets\\assets\\announcements\\73bf6317-b42d-4983-a7ef-235fdcc10a2bphoto5429369322989532381.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\7686b089-eb54-40a1-a22f-cab6f48e8c57IMG_4639.JPG",
+      "PackagePath": "staticwebassets\\assets\\announcements\\7686b089-eb54-40a1-a22f-cab6f48e8c57IMG_4639.JPG"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\d92fa22f-d9ac-4551-88bd-32bbd0dec2dbIMG_4639.JPG",
+      "PackagePath": "staticwebassets\\assets\\announcements\\d92fa22f-d9ac-4551-88bd-32bbd0dec2dbIMG_4639.JPG"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\de432780-843e-464f-9557-b9b60d4b8239IMG_4639.JPG",
+      "PackagePath": "staticwebassets\\assets\\announcements\\de432780-843e-464f-9557-b9b60d4b8239IMG_4639.JPG"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\NetCore\\CarAnnouncementProject\\CarAnnouncementProject\\wwwroot\\assets\\announcements\\e5e89a3d-d7f7-482a-9b71-87c3e695e733IMG_4639.JPG",
+      "PackagePath": "staticwebassets\\assets\\announcements\\e5e89a3d-d7f7-482a-9b71-87c3e695e733IMG_4639.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CarAnnouncementProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CarAnnouncementProject.props",
+      "PackagePath": "build\\CarAnnouncementProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CarAnnouncementProject.props",
+      "PackagePath": "buildMultiTargeting\\CarAnnouncementProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CarAnnouncementProject.props",
+      "PackagePath": "buildTransitive\\CarAnnouncementProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
